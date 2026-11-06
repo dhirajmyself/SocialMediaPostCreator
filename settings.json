@@ -1,0 +1,26 @@
+{
+  "niche": "Fitness",
+  "preset": "Fitness",
+  "keywords": [
+    "fitness",
+    "strength training",
+    "running"
+  ],
+  "feeds": [],
+  "hashtags": "#Fitness #Workout #StayActive",
+  "locale": "hl=en-IN&gl=IN&ceid=IN:en",
+  "times": [
+    "08:00",
+    "13:00",
+    "19:00"
+  ],
+  "max_age_days": 4,
+  "max_new_per_run": 15,
+  "require_approval": true,
+  "auto_publish": false,
+  "ig_user_id": "",
+  "ig_token": "",
+  "cloud_name": "",
+  "cloud_key": "",
+  "cloud_secret": ""
+}
